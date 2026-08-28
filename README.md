@@ -63,7 +63,7 @@ SaaS-Dashboard/
 
 اگر می‌خواهید نسخه TypeScript پروژه را مشاهده کنید، به branch زیر مراجعه کنید:
 
-**[مشاهده نسخه TypeScript](https://github.com/ImRez69/SaaS-Dashboard/tree/typescript)**
+**[مشاهده نسخه TypeScript](https://github.com/alir3za-samadi/SaaS-Dashboard/tree/typescript)**
 
 نسخه TypeScript شامل مهاجرت پروژه از JavaScript به TypeScript است و هدف آن افزایش Type Safety، کاهش خطاها و بهبود نگهداری و توسعه پروژه است.
 
