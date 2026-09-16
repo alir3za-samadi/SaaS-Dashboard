@@ -2,9 +2,9 @@
 
 یک داشبورد مدیریتی مدرن و واکنش‌گرا برای پروژه‌های SaaS که با React و Vite ساخته شده است. رابط کاربری با Tailwind CSS و Material UI طراحی شده و برای نمایش داده‌ها از نمودارهای تعاملی Recharts استفاده می‌کند.
 
-> ### 💡 نسخه اصلی و اصلی پروژه (TypeScript)
-> برای مشاهده کدبیس کامل و توسعه‌یافته با **TypeScript**، [**شاخه typescript را ببینید ↗**](https://github.com/alir3za-samadi/SaaS-Dashboard/tree/typescript)
-
+> [!NOTE]
+> **نسخه اصلی (TypeScript):** برای مشاهده کدبیس توسعه‌یافته با تایپ‌اسکریپت، [**شاخه TypeScript را ببینید**](https://github.com/alir3za-samadi/SaaS-Dashboard/tree/typescript).
+> 
 ## تکنولوژی‌های استفاده‌شده
 
 * **React 19** — ساخت رابط کاربری
