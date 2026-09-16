@@ -72,6 +72,8 @@ SaaS-Dashboard/
 4. کد را با Linter و Build بررسی کنید.
 5. یک Pull Request ایجاد کنید.
 
-## لایسنس
+## License
 
-این پروژه در حال حاضر لایسنس مشخصی ندارد.
+Distributed under the MIT License. See `LICENSE` for more information.
+
+Copyright (c) 2026 alir3za-samadi
