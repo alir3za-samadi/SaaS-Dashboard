@@ -1,4 +1,4 @@
-# داشبورد مدیریت SaaS (نولیتو)
+# داشبورد مدیریت SaaS
 
 > یک داشبورد مدیریت مدرن و واکنشی (Responsive) که با **React**، **TypeScript** و **Tailwind CSS** ساخته شده است. این پروژه دارای کامپوننت‌های جدول عمومی (Generic Table)، پشتیبانی از حالت تاریک/روشن و مدال‌های تمرینی کاربردی است.
 
@@ -82,8 +82,10 @@ pnpm build
 
 سپس آدرس [http://localhost:5173](http://localhost:5173) را در مرورگر باز کنید.
 
-## لایسنس
+## License
 
-این پروژه تحت لایسنس MIT منتشر شده است. برای اطلاعات بیشتر فایل `LICENSE` را مطالعه کنید.
+Distributed under the MIT License. See `LICENSE` for more information.
+
+Copyright (c) 2026 alir3za-samadi
 
 حق انتشار (c) ۲۰۲۶ علیرضا صمدی
