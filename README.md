@@ -2,6 +2,9 @@
 
 یک داشبورد مدیریتی مدرن و واکنش‌گرا برای پروژه‌های SaaS که با React و Vite ساخته شده است. رابط کاربری با Tailwind CSS و Material UI طراحی شده و برای نمایش داده‌ها از نمودارهای تعاملی Recharts استفاده می‌کند.
 
+> ### 💡 نسخه اصلی و اصلی پروژه (TypeScript)
+> برای مشاهده کدبیس کامل و توسعه‌یافته با **TypeScript**، [**شاخه typescript را ببینید ↗**](https://github.com/alir3za-samadi/SaaS-Dashboard/tree/typescript)
+
 ## تکنولوژی‌های استفاده‌شده
 
 * **React 19** — ساخت رابط کاربری
@@ -56,16 +59,6 @@ SaaS-Dashboard/
 ├── .prettierrc          # تنظیمات Prettier
 └── package.json         # وابستگی‌ها و تنظیمات پروژه
 ```
-
-## نسخه TypeScript
-
-نسخه اصلی و TypeScript این پروژه در حال توسعه است.
-
-اگر می‌خواهید نسخه TypeScript پروژه را مشاهده کنید، به branch زیر مراجعه کنید:
-
-**[مشاهده نسخه TypeScript](https://github.com/alir3za-samadi/SaaS-Dashboard/tree/typescript)**
-
-نسخه TypeScript شامل مهاجرت پروژه از JavaScript به TypeScript است و هدف آن افزایش Type Safety، کاهش خطاها و بهبود نگهداری و توسعه پروژه است.
 
 ## مشارکت
 
