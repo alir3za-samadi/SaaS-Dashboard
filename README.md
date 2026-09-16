@@ -87,5 +87,3 @@ pnpm build
 Distributed under the MIT License. See `LICENSE` for more information.
 
 Copyright (c) 2026 alir3za-samadi
-
-حق انتشار (c) ۲۰۲۶ علیرضا صمدی
